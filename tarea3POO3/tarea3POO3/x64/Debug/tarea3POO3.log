@@ -1,0 +1,6 @@
+﻿  tarea3POO3.cpp
+C:\Users\carlo\source\repos\tarea3POO3\tarea3POO3\tarea3POO3.cpp(19,46): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\carlo\source\repos\tarea3POO3\tarea3POO3\tarea3POO3.cpp(20,47): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\carlo\source\repos\tarea3POO3\tarea3POO3\tarea3POO3.cpp(21,50): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\carlo\source\repos\tarea3POO3\tarea3POO3\tarea3POO3.cpp(22,48): warning C4305: '=': truncamiento de 'double' a 'float'
+  tarea3POO3.vcxproj -> C:\Users\carlo\source\repos\tarea3POO3\x64\Debug\tarea3POO3.exe

@@ -1,0 +1,3 @@
+﻿  tarea1POOe.cpp
+C:\Users\carlo\source\repos\tarea1POOe\tarea1POOe.cpp(24,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  tarea1POOe.vcxproj -> C:\Users\carlo\source\repos\tarea1POOe\x64\Debug\tarea1POOe.exe
